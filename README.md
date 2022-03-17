@@ -1,6 +1,6 @@
 # arethart
-Aretha Red Teaming conceptual mockup
+ARETHA-RT: Bringing AI based Red Teaming for Non Expert Users
 
-** repository temporarily offline ** 
+** repository not yet ready for public consumption ** 
 
 please contact @electronicmax 
